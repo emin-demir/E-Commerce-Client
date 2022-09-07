@@ -1,0 +1,12 @@
+:host {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+  }
+ .inputProductField{
+    margin: 5px;
+ }
+ button{
+    margin: auto;
+ }
